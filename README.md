@@ -1,0 +1,2 @@
+# EmotionDetection_Using_DeepNeuralNetwork
+Emotion detection from facial images
